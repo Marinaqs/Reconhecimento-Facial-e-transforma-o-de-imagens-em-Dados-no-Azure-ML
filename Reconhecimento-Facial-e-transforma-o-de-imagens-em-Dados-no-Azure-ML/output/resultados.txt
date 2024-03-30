@@ -1,0 +1,175 @@
+[
+    {
+      "lines": [
+        {
+          "text": "< Reconhecimento Facial e transformação de imagens em Dados no Azure ML",
+          "boundingPolygon": [
+            {
+              "x": 19,
+              "y": 17
+            },
+            {
+              "x": 710,
+              "y": 16
+            },
+            {
+              "x": 710,
+              "y": 38
+            },
+            {
+              "x": 19,
+              "y": 39
+            }
+          ],
+          "words": [
+            {
+              "text": "<",
+              "boundingPolygon": [
+                {
+                  "x": 21,
+                  "y": 17
+                },
+                {
+                  "x": 33,
+                  "y": 17
+                },
+                {
+                  "x": 32,
+                  "y": 39
+                },
+                {
+                  "x": 21,
+                  "y": 39
+                }
+              ],
+              "confidence": 0.832
+            },
+            {
+              "text": "Reconhecimento",
+              "boundingPolygon": [
+                {
+                  "x": 47,
+                  "y": 17
+                },
+                {
+                  "x": 196,
+                  "y": 17
+                },
+                {
+                  "x": 195,
+                  "y": 39
+                },
+                {
+                  "x": 47,
+                  "y": 39
+                }
+              ],
+              "confidence": 0.994
+            },
+            {
+              "text": "Facial",
+              "boundingPolygon": [
+                {
+                  "x": 200,
+                  "y": 17
+                },
+                {
+                  "x": 251,
+                  "y": 17
+                },
+                {
+                  "x": 251,
+                  "y": 39
+                },
+                {
+                  "x": 200,
+                  "y": 39
+                }
+              ],
+              "confidence": 0.998
+            },
+            {
+              "text": "e",
+              "boundingPolygon": [
+                {
+                  "x": 256,
+                  "y": 17
+                },
+                {
+                  "x": 266,
+                  "y": 17
+                },
+                {
+                  "x": 266,
+                  "y": 39
+                },
+                {
+                  "x": 255,
+                  "y": 39
+                }
+              ],
+              "confidence": 0.993
+            },
+            {
+              "text": "transformação",
+              "boundingPolygon": [
+                {
+                  "x": 270,
+                  "y": 17
+                },
+                {
+                  "x": 400,
+                  "y": 17
+                },
+                {
+                  "x": 400,
+                  "y": 39
+                },
+                {
+                  "x": 270,
+                  "y": 39
+                }
+              ],
+              "confidence": 0.579
+            },
+            {
+              "text": "de",
+              "boundingPolygon": [
+                {
+                  "x": 404,
+                  "y": 17
+                },
+                {
+                  "x": 425,
+                  "y": 17
+                },
+                {
+                  "x": 424,
+                  "y": 39
+                },
+                {
+                  "x": 404,
+                  "y": 39
+                }
+              ],
+              "confidence": 0.999
+            },
+            {
+              "text": "imagens",
+              "boundingPolygon": [
+                {
+                  "x": 429,
+                  "y": 17
+                },
+                {
+                  "x": 505,
+                  "y": 17
+                },
+                {
+                  "x": 504,
+                  "y": 39
+                },
+                {
+                  "x": 429,
+                  "y": 39
+                }
